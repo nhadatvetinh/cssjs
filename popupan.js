@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://namphongsaigoncorp.blogspot.com';
+	var url_popup = 'https://nhadatvetinh1.blogspot.com';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
